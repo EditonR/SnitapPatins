@@ -37,7 +37,7 @@ O projeto será a criação de uma Landpage onde irei trabalhar com CSS Animatio
 <br/>
 Neste projeto, vamos trabalhar animações e transições no CSS, utilizando uma landpage de patins no Figma. Vamos explorar animações ao clicar em elementos, transições ao passar o mouse e uma animação de scroll.
 
-- [Acesse o projeto finalizado, online](https://editonr.github.io/LP_PATINS/)
+- [Acesse o projeto finalizado, online](https://editonr.github.io/SnitapPatins/)
 
 ---
 
